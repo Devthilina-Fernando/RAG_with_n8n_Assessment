@@ -4,7 +4,7 @@
 2. create a virtual environment
 - conda create -p venv python=3.12 -y
 3. Activate the environment
-- conda activate
+- conda activate venv/
 4. Install the requirements
 - pip install -r requirements.txt
 5. Run the fast API app
